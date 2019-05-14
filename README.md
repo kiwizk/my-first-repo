@@ -1,29 +1,29 @@
-# This is a large heading
+# My name is Kerri Seger    
 
-## This is a smaller heading
+## I work at Applied Ocean Sciences
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I have *live* in the following **cities**
 
-- This is
-- an unordered
-- list
+- Minster
+- Colombua
+- San Diego
 
-1. This is
-2. an ordered
-3. list
+My *cats* are
 
-Here is `some code` in the middle of a sentence.
+1. Pip
+2. Meme
+3. Puki
+4. Tigger
+
+There is `no code` in the middle of a sentence.
 
 ```
 This is
-a block
-of code
+where I will
+never make typos.
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My [website](https://www.appliedoceansciences.com/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
